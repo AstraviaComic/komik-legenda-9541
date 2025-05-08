@@ -2,6 +2,12 @@
   "chapter_number": 3,
   "title": "Nob",
   "release_date": "2025-05-09",
-  "pages": 0,
-  "panels": []
+  "pages": 5,
+  "panels": [
+    "panel-001.webp",
+    "panel-002.webp",
+    "panel-003.webp",
+    "panel-004.webp",
+    "panel-005.webp"
+  ]
 }
