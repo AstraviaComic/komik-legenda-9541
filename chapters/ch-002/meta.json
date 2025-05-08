@@ -2,6 +2,12 @@
   "chapter_number": 2,
   "title": "Fak",
   "release_date": "2025-05-10",
-  "pages": 0,
-  "panels": []
+  "pages": 5,
+  "panels": [
+    "panel-001.webp",
+    "panel-003.webp",
+    "panel-005.webp",
+    "panel-007.webp",
+    "panel-009.webp"
+  ]
 }
