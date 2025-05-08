@@ -2,6 +2,12 @@
   "chapter_number": 1,
   "title": "Prolog",
   "release_date": "2025-05-09",
-  "pages": 0,
-  "panels": []
+  "pages": 5,
+  "panels": [
+    "panel-001.webp",
+    "panel-003.webp",
+    "panel-005.webp",
+    "panel-007.webp",
+    "panel-009.webp"
+  ]
 }
